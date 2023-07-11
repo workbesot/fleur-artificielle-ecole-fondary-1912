@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/annotations/fleur_artificielle-canvas-1-titre.json",
+  "type": "AnnotationPage",
+  "label": "Titre",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "fleur_artificielle-canvas-1-titre-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Titre: “La Fleur Artificielle”",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Titre",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,1.0"
+        }
+      }
+    }
+  ]
+}

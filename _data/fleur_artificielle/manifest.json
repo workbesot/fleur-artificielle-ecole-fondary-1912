@@ -8,6 +8,32 @@
         "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas",
         "type": "Canvas",
         "duration": 637.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/annotations/fleur_artificielle-canvas-1-titre.json",
+            "label": {
+              "none": ["Titre"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/annotations/fleur_artificielle-canvas-1-intertitre.json",
+            "label": {
+              "none": ["Intertitre"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/annotations/fleur_artificielle-canvas-1-plan.json",
+            "label": {
+              "none": ["Plan"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/paintings",

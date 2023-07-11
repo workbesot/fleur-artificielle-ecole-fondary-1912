@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/annotations/fleur_artificielle-canvas-1-intertitre.json",
+  "type": "AnnotationPage",
+  "label": "Intertitre",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "fleur_artificielle-canvas-1-intertitre-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Intertitre: “Film d’Orientation professionnelle : LA FLEUR ARTIFICIELLE A l’Ecole Municipale, Professionnelle et Ménagère.  24, rue Fondary, Paris.  STE ENSEIGNEMENT PAR LE CINEMA, PARIS”",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Intertitre",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.0,8.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "fleur_artificielle-canvas-1-intertitre-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Intertitre: “A l’École Professionnelle, l’élève commence, dès son entrée, l’apprentissage du métier qu’elle a choisi. Elle continue son instruction générale, celle-ci étant orientée vers la professions.  STE ENSEIGNEMENT PAR LE CINEMA, PARIS”",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Intertitre",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.0,26.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/annotations/fleur_artificielle-canvas-1-plan.json",
+  "type": "AnnotationPage",
+  "label": "Plan",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "fleur_artificielle-canvas-1-plan-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Plan d’une file de femmes marchent dans la rue devant l’école et entre sous le portail.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Plan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8.0,14.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "fleur_artificielle-canvas-1-plan-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Plan d’une file de femmes marchent dans la rue devant l’école et entre sous le portail.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Plan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.0"
+        }
+      }
+    }
+  ]
+}
