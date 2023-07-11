@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "La fleur artificielle" ] },
+    "summary": { "en": [ "This is an annotation project on a video from 1912 about artificial flowermaking classes at the École professionnelle de la rue Fondary, Paris " ] },
+    "items": [
+    ]
+}
