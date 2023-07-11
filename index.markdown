@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This is the frontpage for my project
