@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "fleur_artificielle" ] },
+    "items": [
+      {
+        "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 637.0,
+        "items": [
+          {
+            "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.ina.fr/ina-eclaire-actu/video/vdd10045490/la-fleur-artificielle",
+                    "duration": 637.0
+                },
+                "target": "https://workbesot.github.io/fleur-artificielle-ecole-fondary-1912/fleur_artificielle/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
